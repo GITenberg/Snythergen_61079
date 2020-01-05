@@ -1,5 +1,5 @@
 _repo: Snythergen_61079
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Walker, Dugald Stewart
@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '26527'
     url: http://www.gutenberg.org/2009/agents/26527
     wikipedia: http://en.wikipedia.org/wiki/Dugald_Stewart_Walker
+covers:
+- cover_type: archival
+  image_path: 61079-h/images/cover.jpg
 creator:
   author:
     agent_name: Garrott, Hal
     gutenberg_agent_id: '51246'
     url: http://www.gutenberg.org/2009/agents/51246
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61079#Snythergen
 gutenberg_issued: '2020-01-02'
 gutenberg_type: Text
 identifiers:
